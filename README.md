@@ -39,7 +39,7 @@ Everything here is a piece of a bigger secret world. 🌌
 > 🪄 Everything hides in one magic chest.  
 > Click below to see all the projects at once!
 
-[🔓 Open the Toy Chest](https://github.com/WillSnakeTaka?tab=repositories){:target="_blank"}
+[🔓 Open the Toy Chest](https://github.com/WillSnakeTaka?tab=repositories)
 ---
 
 ## 🪄 Playground Rules
