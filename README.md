@@ -57,9 +57,9 @@ Everything here is a piece of a bigger secret world. 🌌
 
 ---
 
-## 🐉 Secret Pathways
+## 🐍 Secret Pathways
 
-- 🌐 [MySteppe.com](https://www.mysteppe.com)  
+- 🌐 <a href="https://www.mysteppe.com" target="_blank" rel="noopener noreferrer">MySteppe.com 🌐</a> 
 - ✨ Blog, art, and whispers hidden in plain sight  
 - 🎵 My music sneaks between pixels and notes  
 
