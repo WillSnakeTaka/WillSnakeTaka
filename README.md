@@ -31,6 +31,13 @@ Everything here is a piece of a bigger secret world. 🌌
 | [MyFirstGitHubHTMLProject](https://github.com/WillSnakeTaka/MyFirstGitHubHTMLProject) | 🌐 HTML baby steps | HTML, CSS |
 | [my-fork-2024-DS-Tue](https://github.com/WillSnakeTaka/my-fork-2024-DS-Tue) | 📘 Data doodles | Jupyter |
 | [whack-a-prof-2021](https://github.com/WillSnakeTaka/whack-a-prof-2021-winter-project-) | 🐹 Arcade mischief | HTML |
+## 🎮 Featured Toy
+
+> 🪄 Everything hides in one magic chest.  
+> Click below to see all the projects at once!
+
+[🔓 Open the Toy Chest](https://github.com/WillSnakeTaka?tab=repositories){:target="_blank"}
+
 
 ---
 
