@@ -1,6 +1,6 @@
 <!-- ✨ Secret Indie Banner -->
 <p align="center">
-  <img src="kusudama.png" alt="🌙 Whimsical Steppe" width="100%" />
+  <img src="kusudama.jpeg" alt="🌙 Whimsical Steppe" width="100%" />
 </p>
 
 # 🐾 Welcome to Taka’s Little Steppe 🌸  
