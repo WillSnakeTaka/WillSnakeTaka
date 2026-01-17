@@ -27,11 +27,10 @@ Everything here is a piece of a bigger secret world. 🌌
 |--------|--------|---------|  
 | 😼[CuteSweetPopCoin](https://github.com/WillSnakeTaka/CuteSweetPopCoin-White-Paper)🐍| 🐬 A Whimsical cryptocurrency that measures *Hector Berlioz’s* **Symphonie fantastique** 🦄| ☃️Solidity & Mental Wealth✨ |
 | [whack-a-prof-2021](https://github.com/WillSnakeTaka/whack-a-prof-2021-winter-project-) | 🐹 Arcade mischief | HTML |
+| [MyFirstGitHubHTMLProject](https://github.com/WillSnakeTaka/MyFirstGitHubHTMLProject) | 🌐 HTML baby steps | HTML, CSS |
+| [knock-offPokeMole](https://github.com/WillSnakeTaka/knock-offPokeMole) | 🕹 Pikachu comeback | JavaScript |
 | [TechTitans](https://github.com/WillSnakeTaka/TechTitans) | ⚡ College Resources Propaganda | Python |
 | [Signalyze](https://github.com/WillSnakeTaka/Signalyze) | 👋 Hand-signal wizardry | Python, OpenCV |
-| [knock-offPokeMole](https://github.com/WillSnakeTaka/knock-offPokeMole) | 🕹 Pikachu comeback | JavaScript |
-| [MyFirstGitHubHTMLProject](https://github.com/WillSnakeTaka/MyFirstGitHubHTMLProject) | 🌐 HTML baby steps | HTML, CSS |
-| [my-fork-2024-DS-Tue](https://github.com/WillSnakeTaka/my-fork-2024-DS-Tue) | 📘 Data doodles | Jupyter |
 
 
 ---
