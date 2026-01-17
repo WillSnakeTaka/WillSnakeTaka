@@ -25,7 +25,7 @@ Everything here is a piece of a bigger secret world. 🌌
 
 | ✨ Repo | 🐾 Vibe | ⚙️ Tech |
 |--------|--------|---------|  
-| 😼[CuteSweetPopCoin](https://github.com/WillSnakeTaka/CuteSweetPopCoin-White-Paper)🐍| 🐬 A Whimsical cryptocurrency that is capable of measuring *Hector Berlioz’s* **Symphonie fantastique** and beyong! 🦄| ☃️Solidity & Mental Wealth✨ |
+| 😼[CuteSweetPopCoin](https://github.com/WillSnakeTaka/CuteSweetPopCoin-White-Paper)🐍| 🐬 A Whimsical cryptocurrency that is capable of measuring *Hector Berlioz’s* **Symphonie Fantastique** and beyong! 🦄| ☃️Solidity & Mental Wealth✨ |
 | [whack-a-prof-2021](https://github.com/WillSnakeTaka/whack-a-prof-2021-winter-project-) | 🐹 Arcade mischief | HTML |
 | [MyFirstGitHubHTMLProject](https://github.com/WillSnakeTaka/MyFirstGitHubHTMLProject) | 🌐 HTML baby steps | HTML, CSS |
 | [knock-offPokeMole](https://github.com/WillSnakeTaka/knock-offPokeMole) | 🕹 Pikachu comeback | JavaScript |
