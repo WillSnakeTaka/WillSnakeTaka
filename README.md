@@ -1,6 +1,6 @@
 <!-- ✨ Secret Indie Banner -->
 <p align="center">
-  <img src="kusudama.png" alt="🌙 Whimsical Armageddon" width="100%" />
+  <img src="kusudama.png" alt="🌙 Whimsical Armageddon" width="30%" />
 </p>
 
 # 🐾 Welcome to Taka’s Little Cult 🌸  
