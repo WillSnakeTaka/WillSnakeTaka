@@ -1,9 +1,9 @@
 <!-- ✨ Secret Indie Banner -->
 <p align="center">
-  <img src="kusudama.jpeg" alt="🌙 Whimsical Steppe" width="100%" />
+  <img src="kusudama.jpeg" alt="🌙 Whimsical Armageddon" width="100%" />
 </p>
 
-# 🐾 Welcome to Taka’s Little Steppe 🌸  
+# 🐾 Welcome to Taka’s Little Cult 🌸  
 **Indie Dev • Music Maker • Art Dreamer • Animation Tinkerer**  
 
 I make small magical things: games, sounds, doodles, pixels, and notes of light.  
